@@ -1,0 +1,19 @@
+{
+  "notion": {
+    "page_id": "22927170ad6580c6b7a7db0d5d93c7de",
+    "token_v2": "v03%3AeyJhbGciOiJkaXIiLCJraWQiOiJwcm9kdWN0aW9uOnRva2VuLXYzOjIwMjQtMTEtMDciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIn0..wqitPLF9bloqLmFVWV_qzQ.AM1TG5NXo0pdP-znXaYRRC7bui0mfW3N4VL7vIlObPCBs_cZnlefOiYOSD_3phtYftdvJ-sWvSaoqOdwogZTxPOzPRn8JnovmFThGRXhyxZZXNIIqZV-sEtxsXIy-JvSQgmB1OEiVR56kejuahADBqIYKZ1frX-ahZEwAxFurSfj337ybXYcofIK24NR9uFjJRs038IEdG5lBLt9a2gVpBA9J5bxYREgo-746x7XKgx7y_7qZjDV4PJ1PRSAVKdDzuiA6HZWfQ-nUMq4NDxbXy7LJTvgISxW0LRjD6oAN_QBquraY0MMGe0KN7zqSKVd_4v0kCtudEFnGt61uxnnN7Uz8pN4xaSr3ZipnoqEd4nC-NcqVTYoVpMA7HwWw2Zj.Ww_2a-oGCJoll6fbZDA321B-QpI-JYhAD2ZdZ20461I"
+  },
+  "daily": {
+    "enabled": true,
+    "run_time": "04:00"
+  },
+  "week": {
+    "enabled": true,
+    "week_days": ["sunday"],
+    "run_time": "4:00"
+  },
+  "block_scope": {
+    "start_block_id": "22b27170ad65806194ecf074687c7d79",
+    "end_block_id": "22f27170ad65805c97cff7f55ca1a305"
+  }
+}
